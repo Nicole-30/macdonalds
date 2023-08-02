@@ -1,0 +1,156 @@
+.maindiv{
+    display: flex;
+    justify-content: center;
+    padding: 70px;
+    margin:auto 100px;
+}
+.mainp{
+    width: 50%;
+margin-top: 50px;
+
+    
+
+}
+.imgdiv{
+    margin-top: 30px;
+    width: 50%;
+    padding-left: 40px;
+}
+button{
+    padding: 10px 30px;
+    background-color: #e4046e;
+    font-weight: 500;
+    border-radius:  10px;
+    color: white;
+    border: none;
+    margin-left: 33%;
+    margin-bottom: 20%;
+}
+.name{
+    display: flex;
+    justify-content: center;
+    margin: auto 100px;
+}
+
+.group{
+    display: flex;
+    justify-content: center;
+    margin-left: 20px;
+    margin-right: 50px;
+}
+.paragraph{
+width: 40%;
+margin-right: 30px;
+box-shadow: 1px 2px 3px 4px rgba(0, 0, 0, 0.148);
+border-radius: 8px;
+text-align: center;
+padding: 20px;
+}
+
+.picture{
+    width: 40%;
+    margin-top: 20px;
+
+}
+.main{
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+.para{
+    width: 80%;
+    margin-right: 90px;
+    padding: 10px;
+    margin-top: 30px;
+
+}
+.pic{
+    width: 50;
+    margin-left: 100px;
+    padding-right: 10px;
+    margin-top: 20px;
+
+}
+
+.original{
+    display: flex;
+    justify-content: center;
+}
+h3{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.tes1{
+    box-shadow:1px 1px 1px 1px whitesmoke;
+    border-radius: 20px;
+    background:linear-gradient(to right,rgb(203, 203, 247),rgb(249, 220, 249))
+}
+.tes2{
+    box-shadow:1px 1px 1px 1px whitesmoke;
+    margin-left: 25px;
+    border-radius: 20px;
+    background: linear-gradient(to left,rgb(241, 217, 241),rgb(214, 214, 249));
+}
+
+.image{
+    margin-left: 40%;
+    border-radius: 100%;
+    
+}
+
+h4{
+    margin-left: 37%;
+    text-decoration: overline underline;
+}
+
+h6{
+    margin-left: 43%;
+}
+
+.star{
+    margin-left: 43%;
+}
+p{
+    padding: 20px;
+}
+
+.v1{
+    text-transform: lowercase;
+}
+.v2{
+    text-transform: uppercase;
+}
+.v3{
+    text-transform: capitalize;
+}
+.nicole{
+    text-indent: 100px;
+    line-height: 0.8;
+ 
+}
+.nic{
+    text-shadow: 2px 2px red;
+}
+/* .tes1{
+    
+    box-shadow:1px 2px 3px 2px  rgb(237, 234, 234);
+    border-radius: 10px;
+    padding-left: 20px;
+    margin-left: 20px;
+    
+}
+h4{
+    text-align: center;
+}
+h6{
+    text-align: center;
+    color: grey;
+}
+img{
+margin-left: 45%;
+}
+.puppy{
+    border-radius: 100%;
+}
+ */

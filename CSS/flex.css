@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(231, 231, 246);
+}
+.flexc{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+.divs{
+    background-color:white;
+    margin: 20px;
+    padding: 40px;
+    border: 2px solid red;
+    border-radius: 100%;
+    
+}
+
+.numbers{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.num{
+    background-color: antiquewhite;
+    padding: 20px;
+    margin: 10px;
+}
+
+.para1{
+    border: 2px solid black;
+    padding: 10px;
+}
+.para2{
+    border-bottom:2px solid red ;
+    padding: 10px;
+}
+.para3{
+    border: 1px solid grey;
+    border-radius: 10px;
+    padding: 10px;
+}
+.para4{
+    border-left: 2px solid blue;
+    padding: 10px;
+    background-color: rgba(194, 250, 250, 0.482);
+
+}
+body{
+    background-image: url(/datagirls.jpeg);
+    background-size: cover;
+    
+}

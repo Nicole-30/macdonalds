@@ -1,0 +1,6 @@
+ul{
+
+    list-style-type:circle;
+    list-style-image:url(/IMAGES/bullet\ tick.png);
+    list-style-position:outside;
+}
