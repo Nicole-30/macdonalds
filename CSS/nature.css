@@ -1,3 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "open sans",sans-serif;
+}
+
 .bg-arsh{
     background-color: whitesmoke;
 }
@@ -9,7 +16,7 @@
     
 }
 .green{
-    color: rgb(52, 251, 72);
+    color: #69ae14;
 }
 .bdiv :hover{
     
@@ -22,6 +29,32 @@
 }
 .bdiv{
 border: 1px;
-background-color: rgb(244, 240, 240);
+/* background-color: rgb(244, 240, 240); */
 }
-
+.bigdiv{
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    position: inherit;
+    margin-left: 30px;
+    
+    
+}
+.bottom{
+    display: grid;
+    grid-template-columns: auto auto;
+    
+    
+}
+.products{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+.pic1{
+    width: 1200px;
+}
+.pic4{
+    width: 1300px;
+}
+.pic5{
+    width: 1300px;
+}

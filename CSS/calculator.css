@@ -35,26 +35,19 @@ border-radius: 10px;
     color: white;
     
 }
-    /* form input.display{
-    display: flex;
-    justify-content: flex-end;
-    margin:2px;  */
+   .display{
+   display: contents;
+   }
 
     form input.operator{
         color: #33ffd8;
     }
-    
-    
-    
-
-
-    
-
-
 #show{
     display: flex;
     justify-content: flex-end;
     
 }
-
+/* .maindiv{
+    background-color: #3a4452;
+} */
 
